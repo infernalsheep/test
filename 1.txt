@@ -1,1 +1,2 @@
 git remote add origin git@github.com:infernalsheep/test.git //关联远程仓库
+git reset --hard cb50b41    //前6位
