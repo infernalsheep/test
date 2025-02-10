@@ -1,0 +1,1 @@
+git remote add origin git@github.com:infernalsheep/test.git //关联远程仓库
